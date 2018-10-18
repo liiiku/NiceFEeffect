@@ -29,3 +29,8 @@
 大疆效果：`dj.html`
 
 [大疆效果图](https://codepen.io/HelKyle/pen/ePyENP/ "大疆效果图")
+
+几个知识点：
+
+`filter` 滤镜属性
+`filter: blur(px)` 高斯模糊
