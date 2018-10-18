@@ -1,0 +1,23 @@
+{
+  "name": "nicefeeffect",
+  "version": "1.0.0",
+  "description": "整理各种好看好用的前端效果 *** 1. 镂空效果 cutout文件夹",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liiiku/NiceFEeffect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liiiku/NiceFEeffect/issues"
+  },
+  "homepage": "https://github.com/liiiku/NiceFEeffect#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.4"
+  }
+}
